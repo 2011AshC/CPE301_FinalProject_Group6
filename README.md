@@ -2,5 +2,5 @@
 # Group 6
 # Ashley Chen, Vennethe Valenzuela, Chase Neilson, Emily Tran
 
-#Demonstration video
-#https://drive.google.com/file/d/1OrcpXqbMQqeEFGFQTWirhRlPQy3PWYmN/view?usp=drive_link
+Demonstration video:
+https://drive.google.com/file/d/1OrcpXqbMQqeEFGFQTWirhRlPQy3PWYmN/view?usp=drive_link
